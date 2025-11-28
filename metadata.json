@@ -1,0 +1,5 @@
+{
+  "name": "Axé Hero",
+  "description": "A rhythm game inspired by Guitar Hero with the vibrant aesthetics of Bahia's Axé Music. Play using keyboard or a custom WiFi microcontroller.",
+  "requestFramePermissions": []
+}
